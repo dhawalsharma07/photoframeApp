@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Photoframe</string>
+    <string name="photoviewer">Photo Viewer</string>
+    <string name="nextoption">NEXT</string>
+    <string name="prevoption">PREV</string>
+</resources>
